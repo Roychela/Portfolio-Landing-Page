@@ -3,8 +3,8 @@
 #### By **Roy Chela**
 ## Description
 The Portfolio-Landing-page webpage describes the list of programming projects I have undertaken so far. The webpage acts as a web portfolio to showcase my work. It also contains an about me section that gives insight to my educational background, skills, hobbies, interests and my reason to take a programming class.
-##Live demo
-
+## Live demo
+https://roychela.github.io/Portfolio-Landing-Page/
 ## Setup/Installation Requirements
 * Download and install atom, chrome and git
 * Open atom
