@@ -10,4 +10,6 @@ ul li a {
   padding: 6px;
   margin: 20px;
   background-color: orange;
+  width: 350px;
+  float: left;
 }
